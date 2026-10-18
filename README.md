@@ -1,75 +1,64 @@
 # Yara Sekou
-> Ingénieure logicielle · Backend & architecture · Produits fiables, évolutifs et performants
+> Ingénieure logicielle · Backend & architecture · Développement web, mobile et solutions métiers
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<<ton-linkedin>>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1abc9c?logo=google-chrome&logoColor=white)](https://<<ton-site>>)
-[![Email](https://img.shields.io/badge/Email-hello%40<<ton-domaine>>-EA4335?logo=gmail&logoColor=white)](mailto:hello@<<ton-domaine>>)
 [![GitHub](https://img.shields.io/badge/GitHub-yarasekou-181717?logo=github&logoColor=white)](https://github.com/yarasekou)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yarasekou/yarasekou/main/banner.png" alt="banner" width="100%" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yarasekou-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarasekou)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:hello@yarasekou.dev)
 
 ## À propos
-Je conçois des solutions logicielles qui allient robustesse technique, qualité de code et expérience utilisateur. J’aime transformer des idées ambitieuses en produits concrets, lisibles, maintenables et facilement évolutifs.
+Je conçois des applications web et mobiles avec un vrai sens du besoin produit, de la qualité technique et de la maintenabilité. J’ai un intérêt particulier pour les architectures backend robustes, les interfaces claires et les solutions qui facilitent la gestion opérationnelle des organisations.
 
-- 🔭 En ce moment : <<projet principal / mission actuelle>>
-- 🌱 J’étudie et j’applique : <<technologies / domaine>>
-- ⚡ Intérêts : architecture, backend, performance, fiabilité, CI/CD
+- 🔭 Projets récents : innovation, gestion de données, applications métiers
+- 🌱 Stack principale : Java, TypeScript, Dart, PHP, SQL
+- ⚡ Centres d’intérêt : API, architecture logicielle, expérience utilisateur, solutions métiers
 
 ---
 
 ## Compétences clés
-- Langages : Java, TypeScript, Python, Go, SQL
-- Backend : API REST, microservices, architecture événementielle
-- Infrastructure : Docker, Kubernetes, CI/CD, Terraform
-- Données : PostgreSQL, Redis, Elasticsearch
-- Qualité : tests unitaires/intégration, observabilité, revue de code
+- Langages : Java, TypeScript, Dart, PHP, SQL
+- Backend : API REST, Spring Boot, services métiers, logique applicative
+- Frontend : interfaces web et mobile modernes, UX orientée utilisateur
+- Données : gestion de données, modélisation, gestion de processus métier
+- Qualité : code propre, architecture lisible, maintenance et évolutivité
 
 ---
 
 ## Projets en vedette
 
-### 1) <<Nom du projet 1>>
-[Repo](https://github.com/yarasekou/<<repo-1>>) · [Démo](https://<<lien-demo-1>>)
+### 1) Innovatech
+[Backend](https://github.com/yarasekou/innovatech-backend) · [Frontend](https://github.com/yarasekou/innovatech-frontend)
 
-Description : <<problème métier + solution + impact>>
+Application web complète orientée innovation et gestion de projets, avec une séparation claire entre backend et interface utilisateur. Le projet illustre ma capacité à concevoir un système cohérent, scalable et facilement exploitable dans un contexte professionnel.
 
-- ✅ <<fonctionnalité ou gain principal>>
-- ✅ <<technologie / architecture>>
-- ✅ <<impact mesurable ou business value>>
+- ✅ Architecture backend robuste
+- ✅ Frontend moderne et fonctionnel
+- ✅ Solution métier structurée et évolutive
 
-### 2) <<Nom du projet 2>>
-[Repo](https://github.com/yarasekou/<<repo-2>>) · [Démo](https://<<lien-demo-2>>)
+### 2) Gestion Hôpital
+[Backend](https://github.com/yarasekou/gestion-hopital) · [Frontend](https://github.com/yarasekou/Frontend-Hopital)
 
-Description : <<problème métier + solution + impact>>
+Système de gestion hospitalière pensé pour organiser les flux de travail et les informations de manière claire et exploitable. Il met en valeur mon approche de la conception logicielle appliquée à des besoins réels de gestion et d’administration.
 
-- ✅ <<fonctionnalité ou gain principal>>
-- ✅ <<technologie / architecture>>
-- ✅ <<impact mesurable ou business value>>
+- ✅ Gestion des données médicales et opérations internes
+- ✅ Interface orientée utilisateur
+- ✅ Logiciel métier pensée pour un usage concret
 
-### 3) <<Nom du projet 3>>
-[Repo](https://github.com/yarasekou/<<repo-3>>) · [Démo](https://<<lien-demo-3>>)
+### 3) Real Estate
+[Repo](https://github.com/yarasekou/real-estate)
 
-Description : <<problème métier + solution + impact>>
+Projet mobile orienté immobilier, avec une logique de navigation, d’affichage d’annonces et d’expérience utilisateur pensée pour un usage pratique et lisible. Il montre ma capacité à travailler sur des interfaces mobiles avec une approche orientée produit.
 
-- ✅ <<fonctionnalité ou gain principal>>
-- ✅ <<technologie / architecture>>
-- ✅ <<impact mesurable ou business value>>
+- ✅ Interface mobile moderne
+- ✅ UX centrée sur la navigation simple
+- ✅ Projet concret avec usage métier clair
 
 ---
 
 ## Autres projets
-- [<<Projet utile 1>>](https://github.com/yarasekou/<<repo-utile-1>>) — <<description courte>>
-- [<<Projet utile 2>>](https://github.com/yarasekou/<<repo-utile-2>>) — <<description courte>>
-- [<<Projet utile 3>>](https://github.com/yarasekou/<<repo-utile-3>>) — <<description courte>>
-
----
-
-## Contact
-- LinkedIn : https://www.linkedin.com/in/<<ton-linkedin>>
-- Portfolio : https://<<ton-site>>
-- Email : hello@<<ton-domaine>>
+- [smart-pump](https://github.com/yarasekou/smart-pump) — projet applicatif métier et technique orienté gestion / automatisation
+- [prevalimmo](https://github.com/yarasekou/prevalimmo) — application web orientée immobilier / gestion de biens
+- [mbeyan](https://github.com/yarasekou/mbeyan) — projet web avec logique applicative et interface utilisateur
+- [sunu-cargo](https://github.com/yarasekou/sunu-cargo) — projet orienté gestion et processus métier
 
 ---
 
@@ -78,3 +67,5 @@ Description : <<problème métier + solution + impact>>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yarasekou&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarasekou&layout=compact&theme=github_dark)
+
+> En perpétuelle évolution, avec des projets centrés sur les besoins concrets, la robustesse logicielle et les expériences utilisateur efficaces.

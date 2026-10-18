@@ -20,6 +20,7 @@ fill="#000000" stroke="none">
 </svg>
 
 
+
 ## À propos
 Je conçois des applications web et mobiles avec un sens pratique du besoin, de la qualité technique et de la maintenabilité. J’aime transformer des idées en solutions robustes, lisibles et réellement utiles pour les utilisateurs et les organisations.
 

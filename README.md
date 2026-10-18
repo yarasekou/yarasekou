@@ -28,37 +28,39 @@ Je conçois des applications web et mobiles avec un vrai sens du besoin produit,
 ### 1) Innovatech
 [Backend](https://github.com/yarasekou/innovatech-backend) · [Frontend](https://github.com/yarasekou/innovatech-frontend)
 
-Application web complète orientée innovation et gestion de projets, avec une séparation claire entre backend et interface utilisateur. Le projet illustre ma capacité à concevoir un système cohérent, scalable et facilement exploitable dans un contexte professionnel.
+Application web complète orientée innovation et gestion de projets, avec une séparation claire entre backend et interface utilisateur. Le projet illustre ma capacité à concevoir un système cohérent, scalable et exploitable en contexte professionnel.
 
-- ✅ Architecture backend robuste
-- ✅ Frontend moderne et fonctionnel
-- ✅ Solution métier structurée et évolutive
+- ✅ Architecture backend (services, APIs)
+- ✅ Frontend moderne (UX / UI)
+- ✅ Solution métier complète et évolutive
 
-### 2) Gestion Hôpital
-[Backend](https://github.com/yarasekou/gestion-hopital) · [Frontend](https://github.com/yarasekou/Frontend-Hopital)
+### 2) Prevalimmo
+[Repo](https://github.com/yarasekou/prevalimmo)
 
-Système de gestion hospitalière pensé pour organiser les flux de travail et les informations de manière claire et exploitable. Il met en valeur mon approche de la conception logicielle appliquée à des besoins réels de gestion et d’administration.
+Application web orientée immobilier / gestion de biens, intégrant des fonctionnalités de gestion d’annonces, utilisateurs et workflows métiers.
 
-- ✅ Gestion des données médicales et opérations internes
-- ✅ Interface orientée utilisateur
-- ✅ Logiciel métier pensée pour un usage concret
+- ✅ Gestion de biens et workflow métier
+- ✅ Interfaces pour administration et utilisateurs
+- ✅ Conçu pour déployer en environnement web
 
-### 3) Real Estate
-[Repo](https://github.com/yarasekou/real-estate)
+### 3) Mbeyan
+[Repo](https://github.com/yarasekou/mbeyan)
 
-Projet mobile orienté immobilier, avec une logique de navigation, d’affichage d’annonces et d’expérience utilisateur pensée pour un usage pratique et lisible. Il montre ma capacité à travailler sur des interfaces mobiles avec une approche orientée produit.
+Projet web avec logique applicative et interface utilisateur, montrant la capacité à construire des modules fonctionnels et une expérience utilisateur claire.
 
-- ✅ Interface mobile moderne
-- ✅ UX centrée sur la navigation simple
-- ✅ Projet concret avec usage métier clair
+- ✅ Logique applicative structurée
+- ✅ Templates et UI (Twig)
+- ✅ Adapté à des cas d’utilisation métier
 
 ---
 
-## Autres projets
-- [smart-pump](https://github.com/yarasekou/smart-pump) — projet applicatif métier et technique orienté gestion / automatisation
-- [prevalimmo](https://github.com/yarasekou/prevalimmo) — application web orientée immobilier / gestion de biens
-- [mbeyan](https://github.com/yarasekou/mbeyan) — projet web avec logique applicative et interface utilisateur
-- [sunu-cargo](https://github.com/yarasekou/sunu-cargo) — projet orienté gestion et processus métier
+## Autres projets notables
+- [multi-tadjiso](https://github.com/yarasekou/multi-tadjiso) — projet multi-tenant / multi-instance avec templates Twig
+- [gestion-hopital](https://github.com/yarasekou/gestion-hopital) — système de gestion hospitalière (backend Java)
+- [Frontend-Hopital](https://github.com/yarasekou/Frontend-Hopital) — frontend associé au projet de gestion hospitalière
+- [real-estate](https://github.com/yarasekou/real-estate) — application mobile (Dart / Flutter)
+- [smart-pump](https://github.com/yarasekou/smart-pump) — application métier et automatisation
+- [sunu-cargo](https://github.com/yarasekou/sunu-cargo) — solution de gestion / processus métier
 
 ---
 

@@ -1,5 +1,5 @@
 # Yara Sekou
-> Software Engineer · Backend · Web & Mobile · Systems Design
+> Senior Full-Stack Developer | 8+ years • 15+ production apps | Java • Spring Boot • Angular • React • Node.js | Logistics Tech Expert | Full Remote • Dakar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yarasekou/yarasekou/profile/readme-redesign/banner.svg" alt="banner" width="100%" />

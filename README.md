@@ -3,7 +3,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-yarasekou-181717?logo=github&logoColor=white)](https://github.com/yarasekou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekou-yara/)
-[![Website](https://img.shields.io/badge/Website-its-mali.com-1abc9c?logo=google-chrome&logoColor=white)](https://www.its-mali.com)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white)](mailto:yaranagoresekou@gmail.com)
 
 <p align="center">

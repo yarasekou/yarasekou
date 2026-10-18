@@ -2,9 +2,7 @@
 > Ingénieure logicielle · Backend & architecture · Solutions web, mobile et métiers
 
 [![GitHub](https://img.shields.io/badge/GitHub-yarasekou-181717?logo=github&logoColor=white)](https://github.com/yarasekou)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekou-yara/)
-
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?logo=gmail&logoColor=white)](mailto:yaranagoresekou@gmail.com)
 
 <p align="center">
